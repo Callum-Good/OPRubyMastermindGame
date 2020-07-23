@@ -1,7 +1,7 @@
 #Callum Good - Ruby Assignment of the Game mastermind
 #Constants can be changed to switch the word list or number of tries the player gets.
 #
-
+#here is the comment
 
 ###########Constants#############
 CONST_WORD_LIST = "word-list.txt"
